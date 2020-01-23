@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a93cbe6-9acd-4a36-a02c-88bd18585164" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WoOO7dcuBS6xikhHvP8wmgbVm3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../New folder/Desktop/UMKC/Random/Spark/WordCount" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ICP1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ICP1" />
+      <module name="ICP1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ICP1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ICP1" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="icp1 [file:/C:/Users/Michael/Desktop/KDM/ICP1/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ICP1-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3977125027" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3666975207" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a93cbe6-9acd-4a36-a02c-88bd18585164" name="Default Changelist" comment="" />
+      <created>1579812446188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579812446188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="191" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579814047351">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="475" y="191" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.834@0.0.1536.834" timestamp="1579814047351" />
+    <state x="199" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579813935195">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="199" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1579813935195" />
+    <state x="474" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579813926069">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="474" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1579813926069" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1579813116581">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1579813116581" />
+    <state width="1342" height="199" key="GridCell.Tab.0.bottom" timestamp="1579814196764">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="199" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579814196764" />
+    <state width="1342" height="199" key="GridCell.Tab.0.center" timestamp="1579814196764">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="199" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579814196764" />
+    <state width="1342" height="199" key="GridCell.Tab.0.left" timestamp="1579814196764">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="199" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579814196764" />
+    <state width="1342" height="199" key="GridCell.Tab.0.right" timestamp="1579814196764">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="199" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579814196764" />
+  </component>
+</project>
