@@ -2,7 +2,7 @@
 
 | Name | Class ID | Email |
 | :------: | :------: | :------: |
-| Khalid Dhabbah | 10 | kmdk2t@mail.umkc.edu |
+| Khalid Dhabbah | 4 | kmdk2t@mail.umkc.edu |
 
 # Introduction
 This repository is about Knowledge Discovery and Management, a course that I am taking at UMKC.
@@ -15,3 +15,4 @@ This repository is about Knowledge Discovery and Management, a course that I am 
 **Note:** each repo will have a wiki page.
 
 1. [ICP1](https://github.com/Dhabbah/CS5560-KDM/wiki/ICP1)
+2. [ICP2](https://github.com/Dhabbah/CS5560-KDM/wiki/ICP2)
