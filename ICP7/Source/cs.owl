@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/michael/ontologies/2020/2/CS"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/michael/ontologies/2020/2/CS">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Bioinformatics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Data_Science"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Person"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Program"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Software_Engineering"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Student"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Teacher"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasFinancialGuarantee"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasHealthInsurance"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#studies"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#teaches"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Course_ID"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Course_name"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Student_ID"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#first_name"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#last_name"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#staff_ID"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5525"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5531"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5540"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5542"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5543"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5551"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5552A"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5553"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5554"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5555"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5560"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5565"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5566"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5567"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMP-SCI5570"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Student_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#UMKC"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#E&amp;C-ENGR_5590SL"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Bioinformatics"/>
+        <Class IRI="#Program"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Data_Science"/>
+        <Class IRI="#Program"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Software_Engineering"/>
+        <Class IRI="#Program"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Student"/>
+        <Class IRI="#Person"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Teacher"/>
+        <Class IRI="#Person"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#Data_Science"/>
+        <NamedIndividual IRI="#COMP-SCI5525"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#COMP-SCI5531"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_Science"/>
+        <NamedIndividual IRI="#COMP-SCI5540"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_Science"/>
+        <NamedIndividual IRI="#COMP-SCI5542"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_Science"/>
+        <NamedIndividual IRI="#COMP-SCI5543"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#COMP-SCI5551"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#COMP-SCI5552A"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#COMP-SCI5553"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#COMP-SCI5554"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#COMP-SCI5555"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#COMP-SCI5560"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Bioinformatics"/>
+        <NamedIndividual IRI="#COMP-SCI5565"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Bioinformatics"/>
+        <NamedIndividual IRI="#COMP-SCI5566"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_Science"/>
+        <NamedIndividual IRI="#COMP-SCI5567"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_Science"/>
+        <NamedIndividual IRI="#COMP-SCI5570"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Student"/>
+        <NamedIndividual IRI="#Student_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Bioinformatics"/>
+        <NamedIndividual IRI="#E&amp;C-ENGR_5590SL"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasFinancialGuarantee"/>
+        <NamedIndividual IRI="#UMKC"/>
+        <NamedIndividual IRI="#UMKC"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasHealthInsurance"/>
+        <NamedIndividual IRI="#UMKC"/>
+        <NamedIndividual IRI="#UMKC"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Student_ID"/>
+        <NamedIndividual IRI="#Student_1"/>
+        <Literal>1214225</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#first_name"/>
+        <NamedIndividual IRI="#Student_1"/>
+        <Literal>Khalid</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#last_name"/>
+        <NamedIndividual IRI="#Student_1"/>
+        <Literal>Dhabbah</Literal>
+    </DataPropertyAssertion>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasFinancialGuarantee"/>
+        <Class IRI="#Student"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasHealthInsurance"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#studies"/>
+        <Class IRI="#Student"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#teaches"/>
+        <Class IRI="#Teacher"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#studies"/>
+        <Class IRI="#Program"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#teaches"/>
+        <Class IRI="#Program"/>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="#Course_ID"/>
+        <Class IRI="#Bioinformatics"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#Course_ID"/>
+        <Class IRI="#Data_Science"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#Course_ID"/>
+        <Class IRI="#Software_Engineering"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#Course_name"/>
+        <Class IRI="#Bioinformatics"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#Course_name"/>
+        <Class IRI="#Data_Science"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#Course_name"/>
+        <Class IRI="#Software_Engineering"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#Student_ID"/>
+        <Class IRI="#Student"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#first_name"/>
+        <Class IRI="#Student"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#first_name"/>
+        <Class IRI="#Teacher"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#last_name"/>
+        <Class IRI="#Student"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#last_name"/>
+        <Class IRI="#Teacher"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#staff_ID"/>
+        <Class IRI="#Teacher"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#Course_ID"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#Course_name"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#Student_ID"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#first_name"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#last_name"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#staff_ID"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
