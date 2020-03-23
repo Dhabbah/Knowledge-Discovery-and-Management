@@ -1,0 +1,30 @@
+{"subject": "disease", "relation": "causes", "object": "illness"}
+{"subject": "disease", "relation": "causes", "object": "respiratory illness"}
+{"subject": "symptoms", "relation": "is in", "object": "more severe cases"}
+{"subject": "disease", "relation": "causes", "object": "respiratory illness like flu"}
+{"subject": "disease", "relation": "causes illness with", "object": "symptoms in severe cases"}
+{"subject": "disease", "relation": "causes", "object": "illness like flu"}
+{"subject": "disease", "relation": "causes illness with", "object": "symptoms in more severe cases"}
+{"subject": "disease", "relation": "causes illness with", "object": "symptoms"}
+{"subject": "disease", "relation": "causes illness with", "object": "symptoms in cases"}
+{"subject": "your hands", "relation": "avoiding contact with", "object": "people"}
+{"subject": "You", "relation": "can protect", "object": "yourself"}
+{"subject": "You", "relation": "washing", "object": "your hands"}
+{"subject": "your hands", "relation": "avoiding", "object": "close contact"}
+{"subject": "your hands", "relation": "avoiding", "object": "contact"}
+{"subject": "You", "relation": "washing frequently", "object": "your hands"}
+{"subject": "Coronavirus disease", "relation": "spreads primarily through", "object": "contact with infected person"}
+{"subject": "Coronavirus disease", "relation": "spreads through", "object": "contact"}
+{"subject": "Coronavirus disease", "relation": "spreads through", "object": "contact with person"}
+{"subject": "Coronavirus disease", "relation": "spreads through", "object": "contact with infected person"}
+{"subject": "Coronavirus disease", "relation": "spreads primarily through", "object": "contact with person"}
+{"subject": "contact", "relation": "is with", "object": "infected person"}
+{"subject": "Coronavirus disease", "relation": "spreads primarily through", "object": "contact"}
+{"subject": "person", "relation": "touches", "object": "their eyes"}
+{"subject": "person", "relation": "touches", "object": "mouth"}
+{"subject": "person", "relation": "touches", "object": "surface"}
+{"subject": "person", "relation": "touches", "object": "nose"}
+{"subject": "person", "relation": "touches", "object": "object"}
+{"subject": "object", "relation": "touches", "object": "nose"}
+{"subject": "object", "relation": "touches", "object": "mouth"}
+{"subject": "object", "relation": "touches", "object": "their eyes"}
