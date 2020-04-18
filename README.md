@@ -23,5 +23,4 @@ This repository is about Knowledge Discovery and Management, a course that I am 
 7. [ICP7](https://github.com/Dhabbah/CS5560-KDM/wiki/ICP7)
 8. [ICP8](https://github.com/Dhabbah/CS5560-KDM/wiki/ICP8)
 9. [ICP10](https://github.com/Dhabbah/CS5560-KDM/wiki/ICP10)
-
-10.[ICP11](https://github.com/Dhabbah/CS5560-KDM/wiki/ICP11)
+10. [ICP11](https://github.com/Dhabbah/CS5560-KDM/wiki/ICP11)
