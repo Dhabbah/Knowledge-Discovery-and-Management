@@ -20,7 +20,7 @@ This course had in class programming called ICP.
 # Languages and Environments were used
 | Intellij | PyCharm | jupyter | Python |
 | :------: | :------: | :------: | :------: |
-| ![image1](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png) | ![image1](https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg) | ![image1](https://jupyter.org/assets/main-logo.svg) |![image1](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg) |
+| ![image1](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/114px-IntelliJ_IDEA_Logo.svg.png) | ![image1](https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg) | ![image1](https://jupyter.org/assets/main-logo.svg) |![image1](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg) |
 
 
 **Note:** each ICP have a wiki page.
